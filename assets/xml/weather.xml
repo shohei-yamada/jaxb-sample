@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<weather>
+    <measures>
+        <measure>
+            <dateTime>2014-10-28T15:52:32.331+09:00</dateTime>
+            <humidity>1.0</humidity>
+            <temperature>2.0</temperature>
+            <windDirection>3</windDirection>
+            <windSpeed>4</windSpeed>
+        </measure>
+        <measure>
+            <dateTime>2014-10-28T15:52:32.331+09:00</dateTime>
+            <humidity>1.0</humidity>
+            <temperature>2.0</temperature>
+            <windDirection>3</windDirection>
+            <windSpeed>4</windSpeed>
+        </measure>
+    </measures>
+</weather>
